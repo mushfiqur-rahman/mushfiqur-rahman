@@ -42,7 +42,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqur-rahman&layout=compact)
 
 ##  StackOverflow
-[![user:4653243's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/4653243?theme=graywhite&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:4653243's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/4653243?theme=default&website=true&location=true)](https://stackoverflow.com/users/4653243/mushfiqur-rahman)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiqurrahmanshaon/)
