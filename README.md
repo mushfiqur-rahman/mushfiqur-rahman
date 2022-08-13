@@ -41,7 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqur-rahman&layout=compact)
 
-##  StackOverflow
+<h2>💖  StackOverflow </h2>
 [![user:4653243's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/4653243?theme=default&website=true&location=true)](https://stackoverflow.com/users/4653243/mushfiqur-rahman)
 
 ## 🌐 Socials
