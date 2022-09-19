@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on web devepment with django
 - 🌱 I’m currently learning python, ES6 and lot of things. I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 👯 I’m currently open for work and employment opportunities (remote)
 - 🤔 I’m looking for help with JS application
 - 💬 Ask me about any tech related stuff
 - 📫 I am just one mail away - [mushfiq dot kdu at gmail dot com]
