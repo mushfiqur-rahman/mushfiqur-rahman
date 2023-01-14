@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on web devepment with django
 - 🌱 I’m currently learning python and lot of things. I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote)
-- 🤔 I’m looking for help with JS application
+- 🤔 I’m looking for help for python programming
 - 💬 Ask me about any tech related stuff
 - 📫 I am just one mail away - [mushfiq dot kdu at gmail dot com]
 - 😄 Pronouns: He/His & Happy
