@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Trying+to+be+a+full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=mushfiqur-rahman&style=for-the-badge)
+
 ### 👋 Hi nice to see you 😊
 
 - 🔭 I’m currently working on web devepment with django
@@ -45,6 +47,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiqurrahmanshaon/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsKTOlTLWawN-sVK7vaePrA) 
 [![Twitter](https://img.shields.io/twitter/follow/mushfiq_style?logo=Twitter&style=for-the-badge)](https://twitter.com/mushfiq_style)
-
-![](https://komarev.com/ghpvc/?username=mushfiqur-rahman)
 
