@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Trying+to+be+a+full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Trying+to+be+a+professional+web+developer.++++++++++)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=mushfiqur-rahman&style=for-the-badge)
 
