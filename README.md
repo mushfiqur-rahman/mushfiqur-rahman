@@ -44,7 +44,7 @@
 </a>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiqurrahmanshaon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiq1/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsKTOlTLWawN-sVK7vaePrA) 
-[![Twitter](https://img.shields.io/twitter/follow/mushfiq_style?logo=Twitter&style=for-the-badge)](https://twitter.com/mushfiq_style)
+[![Twitter](https://img.shields.io/twitter/follow/mushfiq_style?logo=Twitter&style=for-the-badge)](https://twitter.com/MushfiqFeed)
 
