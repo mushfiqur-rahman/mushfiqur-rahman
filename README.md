@@ -4,15 +4,15 @@
 
 ### 👋 Hi nice to see you 😊
 
-- 🔭 I’m currently working on web devepment with django
-- 🌱 I’m currently learning python, django rest framework, react js and many related things. I believe that everyday is a learning opportunity.
+- 🔭 I’m currently working on web development with Django
+- 🌱 I’m currently learning Python, django rest framework, React JS and many related things. I believe that every day is a learning opportunity.
 - 💼 I’m currently open for work and employment opportunities (remote)
 - 👯 Interested to collaborate on Python Open Source Projects
-- 🤔 I’m looking for help for python programming
+- 🤔 I’m looking for help for React js
 - 💬 Ask me about any tech related stuff
 - 📫 I am just one mail away - [mushfiq dot kdu at gmail dot com]
 - 😄 Pronouns: He/His & Happy
-- ⚡ Fun fact: I love to travel, share idea and cook
+- ⚡ Fun fact: I love to travel, share ideas and cook
 - 🔧 Tools - VSCode, PyCharm, Docker on Lenevo 10th Gen i5 and Windows 10 64bit.
 
 ## 💻 Tech Stack
