@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=I+am+an+IT+Support+Engineer+and+professional+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=IT+Support+Engineer+%7C+Web+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=mushfiqur-rahman&style=for-the-badge)
 
