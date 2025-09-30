@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python, django rest framework, React JS and many related things. I believe that every day is a learning opportunity.
 - 💼 I’m currently open for work and employment opportunities (remote)
 - 👯 Interested to collaborate on Python Open Source Projects
-- 🤔 I’m looking for help for React js TypeScript
+- 🤔 Typescript is headache
 - 💬 Ask me about any tech related stuff
 - 📫 I am just one mail away - [mushfiq dot kdu at gmail dot com]
 - 😄 Pronouns: He/His & Happy
